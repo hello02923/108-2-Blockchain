@@ -21,6 +21,14 @@
 
 
 
+##Dapp decentralized application
+
+
+Dapp與app差別在於app結合智能合約，有了去中心化的功能，Dapp的decentralized就是去中心化、非中心化的意思。在Dapp上做虛擬寶物的交易、下賭注、匯兌都非常的方便，不需要透過第三方支付、金融機構的認可，就能做到金流的功能，買賣方都能感到安心，因為Dapp有透明、公開的機制。
+
+在EOS的Dapp可以挖礦之前，挖礦通常是指BTC、ETH流通量大的Token等等. 
+
+
 
 資料來源：  
 
