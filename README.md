@@ -6,7 +6,7 @@ class content
 - [week 3](https://github.com/hello02923/Blockchain/tree/master/WEEK3):. part3. 
 - [week 4]():智能合約part1 . 
 - [week 5]():放假週～ . 
-  - [實作]():練習撰寫智能合約. 
+  - [實作](https://github.com/hello02923/Blockchain/blob/master/HW2/bank.sol):練習撰寫智能合約. 
 - [week 6]():智能合約part2. 
 - [week 7]():IOTA講座. 
 - [week 8]():. 
